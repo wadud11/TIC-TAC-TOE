@@ -74,7 +74,7 @@ const TicTacToe = () => {
           <p>Next Player: {isXNext ? "X" : "O"}</p>
         )}
         <button onClick={resetGame}>Restart Game</button>
-        <div><b><i><u>DEVELOPER: ABDUL-WADUD</u></i></b></></div>
+        <div><b><i><u>DEVELOPER: ABDUL-WADUD</u></i></b></div>
       </div>
     </div>
   );
